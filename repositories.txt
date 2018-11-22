@@ -1,10 +1,19 @@
 -La realizacion del latch tipo r se realizo en la pagina direccionada por:
 https://github.com/cristiansop/arquitectura_lab/blob/master/12102018/lab4.7z
+
 -La realizacion del flip-flop tip0o d y realizacion del laboratorio
 del latch dada la indicacion de temperadutase encuentran respectivamente en las 
 direcciones:
 https://github.com/stf98/arquitectura_lab/tree/master/lab3
 https://github.com/stf98/arquitectura_lab/blob/stf98-sr-latch/lab3.vhd
+En esta sesion se realizo e implemento un Flip-Flop, que es mulitvibrador bi-estable
+donde dependiendo del clock se cambia de estado, es decir se obtiene una salida o no.
+siendo un elemento de almacenamiento, aqui se trabaja con un bit siendo '1' un estado 
+(cuando se cumplea condicional) y '0' el otro (cuando no), asi se puede decir que el bit
+es una forma de guardar el estado.
+La salida depende de tanto el estado actual como la entrada actual.
+
+
 -El laboratorio acerca del semaforo y las distintas avenidad se encuentra en:
 https://github.com/cristiansop/arquitectura_lab/tree/master/sesion10
 -La realizacion de la alu de entradas de dos bits en:
