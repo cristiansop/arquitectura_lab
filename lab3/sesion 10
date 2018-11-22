@@ -1,0 +1,11 @@
+sesion 10
+
+El laboratorio de envio de la sesion 9 se puede encontrar en el link: 
+https://github.com/cristiansop/arquitectura_lab/blob/master/lab3/flipflop.vhd
+
+En esta sesion se realizo e implemento un Flip-Flop, que es mulitvibrador bi-estable
+donde dependiendo del clock se cambia de estado, es decir se obtiene una salida o no.
+siendo un elemento de almacenamiento, aqui se trabaja con un bit siendo '1' un estado 
+(cuando se cumplea condicional) y '0' el otro (cuando no), asi se puede decir que el bit
+es una forma de guardar el estado.
+La salida depende de tanto el estado actual como la entrada actual.
