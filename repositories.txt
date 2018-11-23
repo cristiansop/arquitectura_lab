@@ -27,3 +27,4 @@ En este laboratorio nos encargamos de realizar una maquina de estados que activa
 -La realizacion de la alu de entradas de dos bits en:
 https://github.com/cristiansop/arquitectura_lab/blob/master/sesion11/sesion11.zip
 En este trabajo se muestra la realizacion de las funciones suma y entre otras de manera bit-wise para representar una alu basica.
+Donde se concatena con ceros para asi evitar problemas de asignacion entre las senales y el vector de salida
