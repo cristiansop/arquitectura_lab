@@ -1,7 +1,7 @@
 -La realizacion del latch tipo r se realizo en la pagina direccionada por:
 https://github.com/cristiansop/arquitectura_lab/blob/master/12102018/lab4.7z
 
--La realizacion del flip-flop tip0o d y realizacion del laboratorio
+-La realizacion del flip-flop tipo d y realizacion del laboratorio
 del latch dada la indicacion de temperadutase encuentran respectivamente en las 
 direcciones:
 https://github.com/stf98/arquitectura_lab/tree/master/lab3
@@ -16,5 +16,9 @@ La salida depende de tanto el estado actual como la entrada actual.
 
 -El laboratorio acerca del semaforo y las distintas avenidad se encuentra en:
 https://github.com/cristiansop/arquitectura_lab/tree/master/sesion10
+En este laboratorio nos encargamos de realizar una maquina de estados que activara el semaforo en posision verde al un carro estar parado en la avenida secundaria(en la que se presenta el carro), lo cual da inicio a un contador y al cual para el nuevo cambio de estado de verde a rojo, realizamos una señal de fin de este.
+
+
 -La realizacion de la alu de entradas de dos bits en:
 https://github.com/cristiansop/arquitectura_lab/blob/master/sesion11/sesion11.zip
+En este trabajo se muestra la realizacion de las funciones suma y entre otras de manera bit-wise para representar una alu basica.
