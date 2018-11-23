@@ -1,6 +1,11 @@
 -La realizacion del latch tipo r se realizo en la pagina direccionada por:
 https://github.com/cristiansop/arquitectura_lab/blob/master/12102018/lab4.7z
 
+cada vez que el clock presenta una pendiente de subida
+a la salida s se le aumenta en uno
+cuando el rst se activa la salida
+la salida s se reinicia y se vuelven 0
+
 -La realizacion del flip-flop tipo d y realizacion del laboratorio
 del latch dada la indicacion de temperadutase encuentran respectivamente en las 
 direcciones:
